@@ -5,7 +5,7 @@ setup(
     version='1.0',
     author='Anne Louise Seekford',
     author_email='bng3be@virginia.edu',
-    packages=['bookluver/booklover.py', 'bookluver/booklover_test.py'],
+    packages=['booklover.py', 'booklover_test.py'],
     url = 'https://github.com/alseekford/DS5100-HW14_Package',
     license='LICENSE.txt',
     description='Package created for UVA MSDS DS5100 Module 14 Homework.',
