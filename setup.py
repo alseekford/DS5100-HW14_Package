@@ -9,7 +9,7 @@ setup(
     url = 'https://github.com/alseekford/DS5100-HW14_Package',
     license='LICENSE.txt',
     description='Package created for UVA MSDS DS5100 Module 14 Homework.',
-    long_description=open('README.txt').read(),
+    long_description=open('README.md').read(),
     install_requires=[
        "pandas",
        "numpy",
